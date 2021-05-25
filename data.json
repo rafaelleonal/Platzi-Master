@@ -1,0 +1,82 @@
+{
+  "data": {
+    "name": "Rafael León Alfaro",
+    "profession": "FrontEnd Developer at Sit Digital México",
+    "address": "Comitán, Chiapas, México",
+    "email": "rafaelleonal95@gmail.com",
+    "website": "https://rafaelleon.netlify.app/",
+    "phone": "+52 961-265-87-67",
+    "avatar": "https://rafaelleon.netlify.app/assets/img/fotoperfil.jpg",
+    "Profile": "Develop myself within a company that allows me to acquire knowledge and experiences, while giving me the opportunity to contribute my skills, enthusiasm and energy to meet goals, professional and personal objectives.",
+    "certificate": [
+      {
+        "date": "August 2019",
+        "description": "I started my studies in web development at Platzi, taking courses like 'Web Development', 'FrontEnd Developer', 'Bootstrap 4', among others.",
+        "institution": "Platzi",
+        "name": "FrontEnd Developer"
+      },
+      {
+        "date": "July 2018",
+        "description": "Engineering Student in Software Development, distance mode.",
+        "institution": "UNADM",
+        "name": "Software Engineer"
+      }
+    ],
+    "experience": [
+      {
+        "company": "FrontEnd Jr",
+        "endDate": "Present",
+        "jobDescription": "Front end web with experience in HTML5, CSS3 Flexbox and Grid, SASS, Boostrap 4, Javascript, Web components, SQL, Gulp, Figma, in the process of Scrum Master certification.",
+        "jobTitle": "Sit Digital México",
+        "startDate": "March 2021"
+      },
+      {
+        "company": "Web Developer Freelance",
+        "endDate": "Feb 2021",
+        "jobDescription": "Front end developer freelance, worked with technologies as HTML5, CSS3, Bootstrap 4, SQL, Figma.",
+        "jobTitle": "Freelance",
+        "startDate": "Jan 2020"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "CSS3"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Bootstrap 4"
+      },
+      {
+        "name": "SASS"
+      },
+      {
+        "name": "Web Components"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Figma"
+      }
+    ],
+    "interest": [
+      "Music",
+      "Videogames",
+      "Swimming",
+      "Travel around the world"
+    ],
+    "languages": [
+      {
+        "name": "Spanish (native)"
+      },
+      {
+        "name": "English Intermediate"
+      }
+    ]
+  }
+}
